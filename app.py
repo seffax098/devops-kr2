@@ -1,3 +1,4 @@
+# KR2: Kutilkin
 import os
 import socket
 
